@@ -1,0 +1,16 @@
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\bin\Debug\Sergioteacher.Csharp05.EditorTextoA.exe.config
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\bin\Debug\Sergioteacher.Csharp05.EditorTextoA.exe
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\bin\Debug\Sergioteacher.Csharp05.EditorTextoA.pdb
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\bin\Debug\Sergioteacher.Csharp05.EditorTextoA.xml
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\obj\Debug\Sergioteacher.Csharp05.EditorTextoA.csproj.AssemblyReference.cache
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\obj\Debug\App.g.cs
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\obj\Debug\Sergioteacher.Csharp05.EditorTextoA_MarkupCompile.cache
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\obj\Debug\Sergioteacher.Csharp05.EditorTextoA_MarkupCompile.lref
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\obj\Debug\MainWindow.baml
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\obj\Debug\Sergioteacher.Csharp05.EditorTextoA.g.resources
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\obj\Debug\Sergioteacher.Csharp05.EditorTextoA.Properties.Resources.resources
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\obj\Debug\Sergioteacher.Csharp05.EditorTextoA.csproj.GenerateResource.cache
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\obj\Debug\Sergioteacher.Csharp05.EditorTextoA.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\obj\Debug\Sergioteacher.Csharp05.EditorTextoA.exe
+C:\Users\Pedro\Source\Repos\Sergioteacher.Csharp05.EditorTextoA\Sergioteacher.Csharp05.EditorTextoA\obj\Debug\Sergioteacher.Csharp05.EditorTextoA.pdb
